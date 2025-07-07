@@ -1,1 +1,3 @@
-Implementation of the Pagerank Algorithm and application to ...
+IDEAS:
+
+cl
